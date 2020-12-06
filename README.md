@@ -30,7 +30,7 @@ Extracting the sentence embeddings of both the 10 clouds of 15 words and the BoW
 7. #targetTweets-
 Comparing similarity indices of clouds of words. Fetching target tweets and saving in a CSV file. (Environment- Jupyter Notebook, Libraries imported were pandas , json)
 
-8. #BoW -
+8. #BoW-
 Creating a bag of words using drugMen.csv and ddd.txt files which containing paragraphs of some articles and clean tweets related to drugs.
 
 
